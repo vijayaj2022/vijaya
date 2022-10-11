@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 :
 :wq!
@@ -10,3 +11,9 @@ this is my modified first commit from develop branch
 this is my modeified second commit from develop branch
 
 >>>>>>> 3f7119b (second time modified testf1)
+=======
+hello
+:
+:wq!
+[A[C[C[A
+>>>>>>> origin
